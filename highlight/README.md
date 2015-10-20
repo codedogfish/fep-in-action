@@ -10,6 +10,13 @@
 
 
 
+[PrismJS language, theme select and download](http://prismjs.com/download.html)
+[PrismJS test](http://prismjs.com/test.html)
+[HighlightJS language select and download](https://highlightjs.org/download/)
+[HighlightJS demo](https://highlightjs.org/static/demo/)
+
+[Google-Code-Prettify](https://github.com/google/code-prettify)
+
 
 
 [highlight]:http://highlightjs.readthedocs.org/en/latest/css-classes-reference.html
